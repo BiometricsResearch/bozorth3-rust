@@ -1,0 +1,11 @@
+[package]
+name = "bozorth"
+version = "0.1.0"
+authors = []
+edition = "2018"
+
+[dependencies]
+rayon = "1.0.3"
+crossbeam = "0.7.1"
+typenum = "1.10.0"
+bitarray = "0.1.2"
